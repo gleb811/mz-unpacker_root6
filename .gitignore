@@ -1,0 +1,22 @@
+# data and personal macros should not be tracked...
+data/
+macros/
+
+# ACLiC generated files
+*_cpp.d
+*_h.d
+*_C.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
